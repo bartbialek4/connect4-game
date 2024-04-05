@@ -1,1 +1,1 @@
-# connect4-game
+Welcome to the Connect Four game!
